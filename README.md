@@ -67,7 +67,7 @@ Acompanhe as vendas e avaliações para entender melhor o mercado e ajustar suas
 <br></br>
 
 <b>8. Publicidade com Amazon Ads</b>
-
+<br></br>
 Etapa 1: Criação da Conta no Amazon Advertising
 Acesse o site do Amazon Advertising:
 
@@ -78,7 +78,7 @@ Use o mesmo login e senha que você utiliza para acessar sua conta KDP.
 Complete seu perfil:
 
 Preencha as informações necessárias para concluir a criação da sua conta de publicidade.
-
+<br></br>
 Etapa 2: Configuração da Campanha Publicitária
 Inicie uma nova campanha:
 
@@ -98,7 +98,7 @@ Escolha palavras-chave relevantes para seu livro. Utilize a ferramenta de sugest
 Configuração do lance:
 
 Estabeleça um valor de lance máximo para suas palavras-chave. Isso determinará quanto você está disposto a pagar por clique.
-
+<br></br>
 Etapa 3: Monitoramento e Ajuste da Campanha
 Acompanhe o desempenho:
 
@@ -109,7 +109,7 @@ Se a campanha não estiver gerando os resultados esperados, considere ajustar se
 Teste diferentes estratégias:
 
 Experimente diferentes palavras-chave, imagens de anúncios e descrições para ver o que funciona melhor.
-
+<br></br>
 Observações
 Atenção ao Orçamento: Comece com um orçamento pequeno e aumente gradualmente conforme você entende melhor o desempenho da sua campanha.
 Relevância das Palavras-chave: Escolha palavras-chave que realmente descrevam o seu produto para alcançar o público certo.

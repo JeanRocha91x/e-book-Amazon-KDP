@@ -9,7 +9,7 @@ Passo a Passo:
 Acesse Amazon KDP e clique em "Inscreva-se no KDP".
 Crie uma conta ou faça login se já tiver uma.
 Complete suas informações fiscais e bancárias.
-Observação: Preencha todas as informações corretamente para evitar problemas na hora dos pagamentos.</br>
+Observação: Preencha todas as informações corretamente para evitar problemas na hora dos pagamentos.<br>
 
 <b>2. Criação do Livro Digital</b>
 Escolha do Tema e Criação das Imagens:

@@ -68,7 +68,8 @@ Acompanhe as vendas e avaliações para entender melhor o mercado e ajustar suas
 
 <b>8. Publicidade com Amazon Ads</b>
 <br></br>
-Etapa 1: Criação da Conta no Amazon Advertising
+<br></br>
+<b>Etapa 1:</b> Criação da Conta no Amazon Advertising
 Acesse o site do Amazon Advertising:
 
 Entre no site do Amazon Advertising: Amazon Advertising.
@@ -79,7 +80,8 @@ Complete seu perfil:
 
 Preencha as informações necessárias para concluir a criação da sua conta de publicidade.
 <br></br>
-Etapa 2: Configuração da Campanha Publicitária
+<br></br>
+<b>Etapa 2:</b> Configuração da Campanha Publicitária
 Inicie uma nova campanha:
 
 Clique em "Create campaign" (Criar campanha).
@@ -99,7 +101,8 @@ Configuração do lance:
 
 Estabeleça um valor de lance máximo para suas palavras-chave. Isso determinará quanto você está disposto a pagar por clique.
 <br></br>
-Etapa 3: Monitoramento e Ajuste da Campanha
+<br></br>
+<b>Etapa 3:</b> Monitoramento e Ajuste da Campanha
 Acompanhe o desempenho:
 
 Monitore o desempenho da sua campanha através do painel de controle do Amazon Advertising. Verifique métricas como cliques, impressões e vendas.
@@ -110,7 +113,8 @@ Teste diferentes estratégias:
 
 Experimente diferentes palavras-chave, imagens de anúncios e descrições para ver o que funciona melhor.
 <br></br>
-Observações
+<br></br>
+<b>Observações:</b>
 Atenção ao Orçamento: Comece com um orçamento pequeno e aumente gradualmente conforme você entende melhor o desempenho da sua campanha.
 Relevância das Palavras-chave: Escolha palavras-chave que realmente descrevam o seu produto para alcançar o público certo.
 Análise Contínua: Analisar continuamente os dados da campanha ajuda a otimizar e melhorar a eficácia do seu anúncio.

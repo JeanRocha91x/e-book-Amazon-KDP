@@ -11,7 +11,6 @@ Crie uma conta ou faça login se já tiver uma.
 Complete suas informações fiscais e bancárias.
 Observação: Preencha todas as informações corretamente para evitar problemas na hora dos pagamentos.
 
-
 <b>2. Criação do Livro Digital</b>
 Escolha do Tema e Criação das Imagens:
 Decida o tema do seu livro de colorir (ex.: heróis e animais fantásticos).
@@ -61,6 +60,7 @@ Observação: Considere criar versões do livro em inglês para alcançar um pú
 Acompanhe as vendas e avaliações para entender melhor o mercado e ajustar suas estratégias futuras.
 
 <b>8. Publicidade com Amazon Ads</b>
+
 Etapa 1: Criação da Conta no Amazon Advertising
 Acesse o site do Amazon Advertising:
 

@@ -68,7 +68,6 @@ Acompanhe as vendas e avaliações para entender melhor o mercado e ajustar suas
 
 <b>8. Publicidade com Amazon Ads</b>
 <br></br>
-<br></br>
 <b>Etapa 1:</b> Criação da Conta no Amazon Advertising
 Acesse o site do Amazon Advertising: https://advertising.amazon.com
 

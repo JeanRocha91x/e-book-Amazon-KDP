@@ -11,6 +11,7 @@ Crie uma conta ou faça login se já tiver uma.
 Complete suas informações fiscais e bancárias.
 Observação: Preencha todas as informações corretamente para evitar problemas na hora dos pagamentos.
 <br></br>
+
 <b>2. Criação do Livro Digital</b>
 Escolha do Tema e Criação das Imagens:
 Decida o tema do seu livro de colorir (ex.: heróis e animais fantásticos).
@@ -19,6 +20,7 @@ Gere prompts específicos para criar imagens preto e branco apropriadas para col
 Baixe e ajuste pelo menos 24 imagens com qualidade adequada.
 Utilize o imglarger para melhorar a qualidade das imagens.
 Observação: Certifique-se de que as imagens são apropriadas para colorir e possuem uma boa resolução.
+<br></br>
 
 <b>3. Criação do PDF do Livro</b>
 Passo a Passo:
@@ -27,6 +29,7 @@ Adicione margens para garantir que as imagens não sejam cortadas na impressão.
 Carregue as imagens melhoradas no Canva e distribua-as pelas páginas, intercalando com páginas em branco para evitar que a tinta vaze de uma página para outra.
 Baixe o design finalizado em formato PDF para impressão.
 Observação: Revise o PDF final para garantir que todas as páginas estão corretas e as imagens centralizadas.
+<br></br>
 
 <b>4. Criação da Capa do Livro</b>
 Passo a Passo:
@@ -34,6 +37,7 @@ Use o Canva para criar uma capa com as dimensões exatas fornecidas pela Calcula
 Adicione a imagem de capa, título e outros elementos gráficos para tornar a capa atraente.
 Baixe a capa finalizada em formato PDF.
 Observação: Uma capa bem desenhada pode aumentar significativamente as vendas. Invista tempo para criar algo atraente.
+<br></br>
 
 <b>5. Publicação no Amazon KDP</b>
 Configuração Inicial:
@@ -48,16 +52,19 @@ Deixe marcado para atribuir um ISBN automático.
 Configurações de Preço e Distribuição:
 Defina o preço do livro e escolha os mercados onde ele será vendido (recomenda-se começar pelo amazon.com e amazon.com.br).
 Observação: Utilize palavras-chave relevantes para que seu livro seja facilmente encontrado pelos compradores.
+<br></br>
 
 <b>6. Lançamento do Livro</b>
 Passo a Passo:
 Verifique todas as informações e clique em "Publicar".
 A Amazon cuidará da impressão e envio cada vez que uma cópia for vendida.
 Observação: Após a publicação, monitore as vendas e feedbacks para melhorias futuras.
+<br></br>
 
 <b>7. Dicas Finais</b>
 Observação: Considere criar versões do livro em inglês para alcançar um público maior.
 Acompanhe as vendas e avaliações para entender melhor o mercado e ajustar suas estratégias futuras.
+<br></br>
 
 <b>8. Publicidade com Amazon Ads</b>
 

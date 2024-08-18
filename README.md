@@ -6,7 +6,7 @@ Observação: O Amazon KDP (Kindle Direct Publishing) permite que autores publiq
 <h1>Etapas para Criar e Publicar um Livro de Colorir na Amazon KDP</h1>
 <b>1. Cadastro no Amazon KDP</b>
 Passo a Passo:
-Acesse Amazon KDP <a href="https://kdp.amazon.com" target="_blank"/a> e clique em "Inscreva-se no KDP".
+Acesse Amazon KDP <href="https://kdp.amazon.com" target="_blank"/> e clique em "Inscreva-se no KDP".
 Crie uma conta ou faça login se já tiver uma.
 Complete suas informações fiscais e bancárias.
 Observação: Preencha todas as informações corretamente para evitar problemas na hora dos pagamentos.

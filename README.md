@@ -4,7 +4,7 @@
 Observação: O Amazon KDP (Kindle Direct Publishing) permite que autores publiquem seus livros sem a necessidade de um estoque físico. A Amazon cuida da impressão e envio das cópias vendidas.
 
 <h1>Etapas para Criar e Publicar um Livro de Colorir na Amazon KDP</h1>
-1. Cadastro no Amazon KDP
+<b>1. Cadastro no Amazon KDP</b>
 Passo a Passo:
 Acesse Amazon KDP e clique em "Inscreva-se no KDP".
 Crie uma conta ou faça login se já tiver uma.
@@ -12,7 +12,7 @@ Complete suas informações fiscais e bancárias.
 Observação: Preencha todas as informações corretamente para evitar problemas na hora dos pagamentos.
 
 
-2. Criação do Livro Digital
+<b>2. Criação do Livro Digital</b>
 Escolha do Tema e Criação das Imagens:
 Decida o tema do seu livro de colorir (ex.: heróis e animais fantásticos).
 Use uma ferramenta de inteligência artificial, como Leonardo AI, para criar as imagens.
@@ -21,7 +21,7 @@ Baixe e ajuste pelo menos 24 imagens com qualidade adequada.
 Utilize o imglarger para melhorar a qualidade das imagens.
 Observação: Certifique-se de que as imagens são apropriadas para colorir e possuem uma boa resolução.
 
-3. Criação do PDF do Livro
+<b>3. Criação do PDF do Livro</b>
 Passo a Passo:
 Acesse Canva e crie um design com dimensões 8,5 x 11 polegadas.
 Adicione margens para garantir que as imagens não sejam cortadas na impressão.
@@ -29,14 +29,14 @@ Carregue as imagens melhoradas no Canva e distribua-as pelas páginas, intercala
 Baixe o design finalizado em formato PDF para impressão.
 Observação: Revise o PDF final para garantir que todas as páginas estão corretas e as imagens centralizadas.
 
-4. Criação da Capa do Livro
+<b>4. Criação da Capa do Livro</b>
 Passo a Passo:
 Use o Canva para criar uma capa com as dimensões exatas fornecidas pela Calculadora de Capa do KDP.
 Adicione a imagem de capa, título e outros elementos gráficos para tornar a capa atraente.
 Baixe a capa finalizada em formato PDF.
 Observação: Uma capa bem desenhada pode aumentar significativamente as vendas. Invista tempo para criar algo atraente.
 
-5. Publicação no Amazon KDP
+<b>5. Publicação no Amazon KDP</b>
 Configuração Inicial:
 Faça login no Amazon KDP e clique em "Create".
 Escolha "Livro com capa comum" e defina o idioma do livro.
@@ -50,17 +50,17 @@ Configurações de Preço e Distribuição:
 Defina o preço do livro e escolha os mercados onde ele será vendido (recomenda-se começar pelo amazon.com e amazon.com.br).
 Observação: Utilize palavras-chave relevantes para que seu livro seja facilmente encontrado pelos compradores.
 
-6. Lançamento do Livro
+<b>6. Lançamento do Livro</b>
 Passo a Passo:
 Verifique todas as informações e clique em "Publicar".
 A Amazon cuidará da impressão e envio cada vez que uma cópia for vendida.
 Observação: Após a publicação, monitore as vendas e feedbacks para melhorias futuras.
 
-7. Dicas Finais
+<b>7. Dicas Finais</b>
 Observação: Considere criar versões do livro em inglês para alcançar um público maior.
 Acompanhe as vendas e avaliações para entender melhor o mercado e ajustar suas estratégias futuras.
 
-8. Publicidade com Amazon Ads
+<b>8. Publicidade com Amazon Ads</b>
 Etapa 1: Criação da Conta no Amazon Advertising
 Acesse o site do Amazon Advertising:
 
@@ -107,4 +107,3 @@ Observações
 Atenção ao Orçamento: Comece com um orçamento pequeno e aumente gradualmente conforme você entende melhor o desempenho da sua campanha.
 Relevância das Palavras-chave: Escolha palavras-chave que realmente descrevam o seu produto para alcançar o público certo.
 Análise Contínua: Analisar continuamente os dados da campanha ajuda a otimizar e melhorar a eficácia do seu anúncio.
-

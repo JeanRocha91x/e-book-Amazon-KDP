@@ -1,3 +1,5 @@
+![amazon coruja](https://github.com/user-attachments/assets/12e8a974-7d2e-437f-be59-396db8c0b10d)
+
 # Amazon KDP - Como Criar e Publicar um Livro de Colorir na Amazon! Sem Estoque e Ganhar Dinheiro!
 
 # Introdução

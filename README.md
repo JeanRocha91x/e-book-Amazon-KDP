@@ -6,7 +6,7 @@ Observação: O Amazon KDP (Kindle Direct Publishing) permite que autores publiq
 <h1>Etapas para Criar e Publicar um Livro de Colorir na Amazon KDP</h1>
 <b>1. Cadastro no Amazon KDP</b>
 Passo a Passo:
-Acesse Amazon KDP e clique em "Inscreva-se no KDP".
+Acesse Amazon KDP (https://kdp.amazon.com) e clique em "Inscreva-se no KDP".
 Crie uma conta ou faça login se já tiver uma.
 Complete suas informações fiscais e bancárias.
 Observação: Preencha todas as informações corretamente para evitar problemas na hora dos pagamentos.
@@ -15,16 +15,16 @@ Observação: Preencha todas as informações corretamente para evitar problemas
 <b>2. Criação do Livro Digital</b>
 Escolha do Tema e Criação das Imagens:
 Decida o tema do seu livro de colorir (ex.: heróis e animais fantásticos).
-Use uma ferramenta de inteligência artificial, como Leonardo AI, para criar as imagens.
+Use uma ferramenta de inteligência artificial, como Leonardo AI (https://leonardo.ai/), para criar as imagens.
 Gere prompts específicos para criar imagens preto e branco apropriadas para colorir.
 Baixe e ajuste pelo menos 24 imagens com qualidade adequada.
-Utilize o imglarger para melhorar a qualidade das imagens.
+Utilize o imglarger (https://imglarger.com/) para melhorar a qualidade das imagens.
 Observação: Certifique-se de que as imagens são apropriadas para colorir e possuem uma boa resolução.
 <br></br>
 
 <b>3. Criação do PDF do Livro</b>
 Passo a Passo:
-Acesse Canva e crie um design com dimensões 8,5 x 11 polegadas.
+Acesse Canva (https://www.canva.com/) e crie um design com dimensões 8,5 x 11 polegadas.
 Adicione margens para garantir que as imagens não sejam cortadas na impressão.
 Carregue as imagens melhoradas no Canva e distribua-as pelas páginas, intercalando com páginas em branco para evitar que a tinta vaze de uma página para outra.
 Baixe o design finalizado em formato PDF para impressão.
@@ -33,7 +33,7 @@ Observação: Revise o PDF final para garantir que todas as páginas estão corr
 
 <b>4. Criação da Capa do Livro</b>
 Passo a Passo:
-Use o Canva para criar uma capa com as dimensões exatas fornecidas pela Calculadora de Capa do KDP.
+Use o Canva (https://www.canva.com/) para criar uma capa com as dimensões exatas fornecidas pela Calculadora de Capa do KDP.
 Adicione a imagem de capa, título e outros elementos gráficos para tornar a capa atraente.
 Baixe a capa finalizada em formato PDF.
 Observação: Uma capa bem desenhada pode aumentar significativamente as vendas. Invista tempo para criar algo atraente.
@@ -70,7 +70,7 @@ Acompanhe as vendas e avaliações para entender melhor o mercado e ajustar suas
 <br></br>
 <br></br>
 <b>Etapa 1:</b> Criação da Conta no Amazon Advertising
-Acesse o site do Amazon Advertising:
+Acesse o site do Amazon Advertising: https://advertising.amazon.com
 
 Entre no site do Amazon Advertising: Amazon Advertising.
 Faça login com sua conta da Amazon KDP:
@@ -79,7 +79,6 @@ Use o mesmo login e senha que você utiliza para acessar sua conta KDP.
 Complete seu perfil:
 
 Preencha as informações necessárias para concluir a criação da sua conta de publicidade.
-<br></br>
 <br></br>
 <b>Etapa 2:</b> Configuração da Campanha Publicitária
 Inicie uma nova campanha:
@@ -101,7 +100,6 @@ Configuração do lance:
 
 Estabeleça um valor de lance máximo para suas palavras-chave. Isso determinará quanto você está disposto a pagar por clique.
 <br></br>
-<br></br>
 <b>Etapa 3:</b> Monitoramento e Ajuste da Campanha
 Acompanhe o desempenho:
 
@@ -112,7 +110,6 @@ Se a campanha não estiver gerando os resultados esperados, considere ajustar se
 Teste diferentes estratégias:
 
 Experimente diferentes palavras-chave, imagens de anúncios e descrições para ver o que funciona melhor.
-<br></br>
 <br></br>
 <b>Observações:</b>
 Atenção ao Orçamento: Comece com um orçamento pequeno e aumente gradualmente conforme você entende melhor o desempenho da sua campanha.
